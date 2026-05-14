@@ -248,3 +248,57 @@ The final project poster summarizes the full capstone workflow, including the ab
 │   └── poster_preview.png
 │
 └── README.md
+```
+
+##Project Files
+Notebooks
+modeling_and_training.ipynb
+Contains machine learning modeling work, feature engineering, model training, and comparison.
+final_model_evaluation.ipynb
+Contains final model evaluation, prediction analysis, and performance comparison.
+Reports
+project_proposal.pdf
+Initial project proposal describing the problem, dataset, objectives, technical challenges, and planned solution.
+eda_report.pdf
+Exploratory data analysis report covering data structure, missing values, descriptive statistics, outliers, text characteristics, and temporal patterns.
+capstone_poster.pdf
+Final project poster summarizing the project workflow, models, results, and key takeaways.
+capstone_reflection.pdf
+Reflection document from the capstone project.
+Final Recommendations
+
+##Based on the project results:
+
+Emergency service agencies can use historical call data to identify predictable demand patterns.
+Time-based features should be prioritized when forecasting emergency call volume.
+Tree-based machine learning models are more suitable than simple linear models for this type of problem.
+Gradient Boosting is recommended as the strongest model from this project.
+Forecasting tools can support better staffing, planning, and emergency preparedness.
+Future improvements could include weather data, holiday indicators, location-based demand patterns, and real-time deployment.
+Future Improvements
+
+##Possible future improvements include:
+
+Add weather data to capture weather-related emergency demand
+Include holidays and special event indicators
+Build department-specific forecasting models
+Add geographic clustering by township or ZIP code
+Deploy the model as an interactive dashboard or web app
+Test additional models such as XGBoost, Prophet, or LSTM
+Improve prediction of rare high-demand spike periods
+Skills Demonstrated
+
+##This project demonstrates:
+
+Data cleaning
+Exploratory data analysis
+Time-based feature engineering
+Data aggregation
+Machine learning modeling
+Regression model evaluation
+Forecasting workflow design
+Data visualization
+Public-sector analytics
+Team collaboration
+Technical communication
+Contact
